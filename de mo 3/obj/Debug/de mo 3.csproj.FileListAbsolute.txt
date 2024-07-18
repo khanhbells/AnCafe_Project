@@ -1,0 +1,360 @@
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\bin\Debug\de mo 3.exe.config
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\bin\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\bin\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de mo 3.csproj.AssemblyReference.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de mo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Properties.Resources.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de mo 3.csproj.GenerateResource.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de mo 3.csproj.CoreCompileInputs.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.fromdangnhap.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.from_chinh.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.HoaDon.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Nhân_viên.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Nhâp_Hàng.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Phiêm_bản.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Quản_lý_bàn.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Quản_lý_thưc_đơn.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Tai_Khoan.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.thongke.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.Thông_tin_phần_mền.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 3\de mo 3\obj\Debug\de_mo_3.from.doanh_Thu.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\de mo 3.exe.config
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.csproj.AssemblyReference.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.In_Thong_Ke.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.doanh_Thu.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.fromdangnhap.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.from_chinh.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Nhân_viên.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Nhâp_Hàng.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Phiêm_bản.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Quản_lý_bàn.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Tai_Khoan.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.demothongke.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Thông_tin_phần_mền.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.Properties.Resources.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.csproj.GenerateResource.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.csproj.CoreCompileInputs.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Luong_NV.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Hoa_Don2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de_mo_3.from.Ql_Thuc_Don.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\EnvDTE.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\stdole.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\EnvDTE.xml
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 344\de mo 3\obj\Debug\de mo 3.csproj.CopyComplete
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\de mo 3.exe.config
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\EnvDTE.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\stdole.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\EnvDTE.xml
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.csproj.AssemblyReference.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Hoa_Don2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.In_Thong_Ke.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Luong_NV.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Ql_Thuc_Don.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.doanh_Thu.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.fromdangnhap.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.from_chinh.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Nhân_viên.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Nhâp_Hàng.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Phiêm_bản.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Quản_lý_bàn.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Tai_Khoan.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.demothongke.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.from.Thông_tin_phần_mền.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de_mo_3.Properties.Resources.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.csproj.GenerateResource.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.csproj.CoreCompileInputs.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.csproj.CopyComplete
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 55\de mo 3\obj\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\de mo 3.exe.config
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\EnvDTE.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\stdole.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\EnvDTE.xml
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.csproj.AssemblyReference.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan1.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan3.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan4.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan5.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan6.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Hoa_Don2.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Luong_NV.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Ql_Thuc_Don.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.doanh_Thu.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.fromdangnhap.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.from_chinh.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Nhân_viên.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Nhâp_Hàng.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Phiêm_bản.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Quản_lý_bàn.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Tai_Khoan.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.Thông_tin_phần_mền.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.Properties.Resources.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.csproj.GenerateResource.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.csproj.CoreCompileInputs.cache
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.csproj.CopyComplete
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.exe
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de mo 3.pdb
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\obj\Debug\de_mo_3.from.In_Thong_Ke.resources
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\EPPlus.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\EPPlus.xml
+C:\Users\BUI HUUHUY\OneDrive\Documents\bai tap lon\de mo 6666\de mo 3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\de mo 3.exe.config
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\de mo 3.exe
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\de mo 3.pdb
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\EPPlus.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\EnvDTE.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\stdole.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\EPPlus.xml
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.csproj.AssemblyReference.cache
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_1.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_4.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_2.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_3.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_5.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.Bàn_6.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan1.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan2.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan3.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan4.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan5.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Danh_sach_ban.inHDBan6.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Hoa_Don2.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.In_Thong_Ke.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Luong_NV.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Ql_Thuc_Don.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.doanh_Thu.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.fromdangnhap.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.from_chinh.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Nhân_viên.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Nhâp_Hàng.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Phiêm_bản.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Quản_lý_bàn.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Tai_Khoan.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.from.Thông_tin_phần_mền.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de_mo_3.Properties.Resources.resources
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.csproj.GenerateResource.cache
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.csproj.CoreCompileInputs.cache
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.csproj.CopyComplete
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.exe
+C:\Users\Phong Vu\Downloads\Công nghệ phần mền-20221202T132228Z-001\Công nghệ phần mền\de mo 77\de mo 3\obj\Debug\de mo 3.pdb
